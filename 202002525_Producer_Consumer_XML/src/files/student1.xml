@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student id="202002525" name="Mndzebele Siphelele Sanele" programme="BSC IT IDE">
+        <course mark="76" name="CSC411"/>
+        <course mark="45" name="CSC421"/>
+        <course mark="90" name="CSC211"/>
+        <course mark="87" name="CSC423"/>
+    </student>
+</students>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student id="202004578" name="Dlamini Mathokoza Toxic" programme="BSc Computer Science">
+        <course mark="53" name="MAT111 "/>
+        <course mark="76" name="CSC111"/>
+    </student>
+</students>

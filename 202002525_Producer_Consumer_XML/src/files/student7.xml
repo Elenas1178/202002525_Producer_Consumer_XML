@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student id="202007865" name="Kunene Evan Phayo" programme="BSc Information Science">
+        <course mark="76" name="CSI123"/>
+        <course mark="87" name="CSC111"/>
+        <course mark="65" name="CSC211"/>
+        <course mark="78" name="CSC311"/>
+    </student>
+</students>

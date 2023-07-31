@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student id="202004910" name="Nhleko Zethu" programme="BSC IT IDE">
+        <course mark="33" name="CSC311 Data Structures and algorithm"/>
+        <course mark="45" name="CSC431 Computer Networks I"/>
+        <course mark="34" name="CSC211"/>
+        <course mark="45" name="CSC423"/>
+        <course mark="25" name="CSC493"/>
+    </student>
+</students>
