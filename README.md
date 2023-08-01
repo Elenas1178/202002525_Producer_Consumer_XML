@@ -1,3 +1,4 @@
+202002525_Producer_Consumer_XML
 This project was created using java netbeans 8.2 jdk 1.8.
 
 How to run project
@@ -13,3 +14,8 @@ Running the project
 3. Click run
    
 A menu will appear. If you want to create/Produce more xml files, enter 1 and press enter, but if you want to view/consume files enter 2 and press enter
+
+
+202002525_Producer_Consumer_Socket
+Run the consumer.java file first
+Then run the producer.java file
