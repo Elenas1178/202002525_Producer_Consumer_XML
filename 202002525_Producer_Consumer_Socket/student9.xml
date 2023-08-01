@@ -1,0 +1,9 @@
+<student>
+	<name>Alex</name>
+	<id>01444566</id>
+	<programme>Software Engineering</programme>
+	<course>Course 1</course>
+	<mark>46</mark>
+	<course>Course 2</course>
+	<mark>21</mark>
+</student>

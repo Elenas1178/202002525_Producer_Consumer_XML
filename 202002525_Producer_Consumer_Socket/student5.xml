@@ -1,0 +1,13 @@
+<student>
+	<name>John</name>
+	<id>45618824</id>
+	<programme>Software Engineering</programme>
+	<course>Course 1</course>
+	<mark>73</mark>
+	<course>Course 2</course>
+	<mark>71</mark>
+	<course>Course 3</course>
+	<mark>31</mark>
+	<course>Course 4</course>
+	<mark>80</mark>
+</student>
