@@ -19,3 +19,8 @@ A menu will appear. If you want to create/Produce more xml files, enter 1 and pr
 202002525_Producer_Consumer_Socket
 Run the consumer.java file first
 Then run the producer.java file
+
+Running the producer consumer on c++
+1. Create a visual C++ project in Visual Studio 2022
+2. Copy the contents of main.cpp and paste them to the main file of this project
+3. Run project
